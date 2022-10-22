@@ -1,0 +1,19 @@
+.div-ud {
+ display: flex;
+ flex-direction: column;
+ border: solid 3px rgba(65, 49, 49, 0.829);
+ width: 50%;
+ margin-left: 25%;
+ justify-content: center;
+ align-items: center;
+ background-color: antiquewhite;
+ opacity: 0.8;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.h1-ud {
+    color: bisque;
+}

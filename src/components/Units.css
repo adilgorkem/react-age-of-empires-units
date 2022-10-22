@@ -1,0 +1,21 @@
+table {
+    margin-left: 35%;
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    border-collapse: collapse;
+    background: rgb(203, 219, 135);
+    text-align: center;
+    opacity: 0.8;
+    align-items: center;
+    justify-content: center;
+    }
+
+.costs {
+    color: rgb(203, 219, 135);
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-left: 10px;
+}
